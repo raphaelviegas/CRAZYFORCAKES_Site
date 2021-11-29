@@ -28,8 +28,8 @@ export default {
     return {
       whatsappLink: 'https://api.whatsapp.com/send?phone=5511991448512',
       instagramLink:  'https://www.instagram.com/crazyforcakes/',
-      mobileBgUrl: '/mobile-background-min.jpg',
-      desktopBgUrl: 'desktop-background-min.jpg'
+      mobileBgUrl: '/mobile-background-min.jpeg',
+      desktopBgUrl: 'desktop-background-min.jpeg'
     }
   },
 }
