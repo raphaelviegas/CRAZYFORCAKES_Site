@@ -3,12 +3,12 @@
     <img
       :src="pageData.acf.mobileBgUrl"
       alt=""
-      class="absolute inset-0 z-0 object-cover lg:hidden"
+      class="absolute inset-0 z-0 object-cover w-full h-full lg:hidden"
     >
     <img
       :src="pageData.acf.desktopBgUrl"
       alt=""
-      class="absolute inset-0 z-0 hidden object-cover lg:block"
+      class="absolute inset-0 z-0 hidden object-cover w-full h-full lg:block"
     >
     <img
       data-not-lazy
